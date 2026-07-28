@@ -1,9 +1,0 @@
-# Never commit your real API key
-.env
-
-# Python cache files
-__pycache__/
-*.pyc
-
-# Virtual environment folder
-venv/
